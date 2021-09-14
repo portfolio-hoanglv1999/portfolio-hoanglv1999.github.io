@@ -116,9 +116,9 @@ a{
 	background-size:contain;*/
 }
 .content1__navbar1{
-	height:200px;
+	height:100px;
+	position:relative;
 	width:100%;
-	position:fixed;
 	z-index: 10000000;
 }
 .paddingnoidunglai{
@@ -165,7 +165,7 @@ a{
 
 .content__introduction1{
 	text-align:center;
-	padding-top:200px;
+	padding-top:100px;
 	position:relative;
 	
 }
@@ -245,7 +245,7 @@ a{
 .content__introduction1 img {
 	width: 108px;
     position: absolute;
-    top: 207px;
+    top: 107px;
     right: 404px;
 }
 .content__introduction1 h1{
@@ -284,8 +284,8 @@ a{
 .content2__link__image{
 	width:20%;
 	position: absolute;
-	right:50%;
-	top:-25%;
+	right:38%;
+	top:-65%;
 	transform:translateY(-70px);
 	visibility: hidden;
 	z-index:1;
