@@ -284,7 +284,7 @@ a{
 .content2__link__image{
 	width:20%;
 	position: absolute;
-	right:38%;
+	right:30%;
 	top:-65%;
 	transform:translateY(-70px);
 	visibility: hidden;
